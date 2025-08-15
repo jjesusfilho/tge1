@@ -1,0 +1,195 @@
+---
+title: "Introdução à Teoria do Estado"
+subtitle: "Do Estado de Direito ao Estado Democrático de Direito"
+author: "Com base em Nina Ranieri"
+format: revealjs
+theme: default
+toc: false
+slide-number: true
+transition: fade
+---
+
+## O que é Teoria do Estado?
+
+- Disciplina jurídica voltada à compreensão do Estado como fenômeno:
+  - **Social**
+  - **Político**
+  - **Jurídico**
+- Investiga:
+  - Origem
+  - Natureza
+  - Finalidade
+  - Evolução
+  - Formas e estruturas do Estado
+
+## Fontes da Teoria do Estado
+
+- Doutrinas políticas
+- História das instituições políticas
+- Ordenamento jurídico
+- Perspectiva **interdisciplinar**:
+  - Filosofia
+  - Sociologia
+  - Economia
+  - Ciência política
+
+## Função da Teoria do Estado
+
+- Reunir, analisar e sistematizar conhecimentos úteis à vida nas sociedades estatais
+- Questões centrais:
+  - O que é o Estado?
+  - Para que serve?
+  - Como surgiu e evoluiu?
+  - Quem exerce o poder e como?
+
+## Conceitos centrais
+
+- Poder estatal
+- Obrigação política
+- Limitação do poder
+- Estrutura do Estado
+- Legitimação e legalidade
+
+## Tipos e modelos explicativos
+
+- **Tipo empírico** (Jellinek):
+  - Generalizações indutivas baseadas em situações políticas semelhantes
+  - Fundado em elementos sociais, históricos e jurídicos
+- **Tipo ideal** (Max Weber):
+  - Construção teórica pura
+  - Valor teleológico
+
+## A metodologia dos tipos
+
+- Tipos explicam regularidades do fenômeno estatal
+- Permitem:
+  - Comparar formações políticas
+  - Projetar situações futuras
+- **Limite**: são relativos e mutáveis
+
+## Origem da TGE
+
+- Surge formalmente com a obra de **Georg Jellinek** (1900)
+- Fortemente influenciada pelo contexto político da Alemanha do século XIX
+- Produto da necessidade de **organização e sistematização jurídica**
+
+## Correntes influentes: Historicismo
+
+### Friedrich Carl von Savigny
+
+- Direito como expressão do “espírito do povo” (Volksgeist)
+- Ênfase na continuidade histórica e nos costumes
+- Direito como organismo vivo, em evolução
+
+## Correntes influentes: Positivismo
+
+### Escola Pandectista
+
+- Lei como única fonte do direito
+- Sistema jurídico fechado e lógico
+- Redução das dimensões políticas e sociais
+
+## Contribuições da Escola de Direito Público Alemã
+
+- Estado como pessoa jurídica
+- Separação entre governante e Estado
+- Unificação e sistematização do direito público
+- Conceito de território jurídico
+- Paradigmas compartilhados (Thomas Kuhn)
+
+## Críticas à TGE clássica
+
+- Abstração excessiva
+- Desconexão com a realidade social
+- Estado como fim em si mesmo
+- Direitos como reflexo do próprio Estado
+- Redução do direito ao direito estatal
+
+## A crítica de Hermann Heller
+
+- Proposta de uma teoria do Estado baseada na realidade
+- Estado como unidade de ação vinculada à sociedade
+- Contra a ideia de um Estado invariável
+- Busca superar o formalismo da TGE clássica
+
+## A crítica de J. J. Gomes Canotilho
+
+- TGE como ciência estatista e ahistórica
+- Falsas generalizações e descontextualizações
+- Fragmentação após a Segunda Guerra
+- Estado como centro perdido entre várias teorias (constituição, federação, democracia)
+
+## Da TGE à Teoria do Estado
+
+- Influência de abordagens sócio-políticas:
+  - Santi Romano: Estado como instituição jurídica
+  - Carré de Malberg: interdependência entre direito e política
+- Passagem do Estado liberal ao Estado social
+- Ênfase no indivíduo e na limitação do poder
+
+## Após a Segunda Guerra Mundial
+
+- Valorização da Constituição e dos direitos fundamentais
+- Emergência do Estado Democrático de Direito
+- Autores relevantes:
+  - Del Vecchio, Pallieri, Fleiner-Gerster
+  - Zipellius, Miranda
+  - Miguel Reale, Bonavides, Dallari, Lewandowski
+
+## Desafios do Estado contemporâneo
+
+- Relativização da soberania
+  - Atores supraestatais
+  - Fragmentação do poder estatal
+- Crise do paradigma representativo
+  - Cidadãos desconfiam das instituições
+  - Avanço do Judiciário
+
+## Novos paradigmas do Estado
+
+- Direito internacional e valores universais:
+  - Carta da ONU (1946)
+  - Declaração Universal dos Direitos Humanos (1948)
+- Justiça constitucional como contrapeso político
+- Globalização, regionalização e crise da soberania
+
+## Thomas Kuhn e as revoluções científicas
+
+- Paradigma = modelo explicativo dominante
+- Revoluções científicas ocorrem com a **quebra total** do paradigma
+- Ciência normal não busca rupturas, mas confirmações
+- Exemplo: de Ptolomeu a Copérnico
+
+## Aplicações à Teoria do Estado
+
+- O paradigma do Estado moderno está em crise
+  - Multiplicidade de atores
+  - Novos valores jurídicos e políticos
+- A teoria precisa acompanhar as transformações
+  - Explicar e induzir mudanças paradigmáticas
+
+## Teoria do Estado x Ciência Política
+
+| Teoria do Estado         | Ciência Política                 |
+|--------------------------|----------------------------------|
+| Abordagem jurídica       | Abordagem empírica               |
+| Foco: Estado como pessoa | Foco: poder, comportamento, instituições |
+| Método dogmático         | Método científico (estatístico, histórico) |
+| Finalidade explicativa   | Finalidade analítica e preditiva |
+
+## Conclusão
+
+- A teoria do Estado deve:
+  - Conciliar tradição e realidade
+  - Incorporar novos valores e fenômenos
+  - Manter espírito crítico e abertura teórica
+- Missão atual:
+  - Compreender o Estado democrático de direito no século XXI
+  - Articular soberania, justiça, cidadania e globalização
+
+## Para debate em sala
+
+1. Qual o papel do Estado hoje?
+2. A soberania ainda faz sentido?
+3. O Estado deve ser neutro ou atuar em nome de valores?
+4. O direito pode limitar o poder eficazmente?

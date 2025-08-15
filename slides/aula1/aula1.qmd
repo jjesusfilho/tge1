@@ -1,0 +1,262 @@
+---
+title: "Teoria do Estado em Tempos de Crise e Globalização"
+subtitle: "Uma proposta de abordagem institucional"
+format: revealjs
+theme: default
+toc: false
+slide-number: true
+transition: fade
+---
+
+## Capa
+
+### Teoria do Estado: uma proposta de abordagem no contexto de globalização financeira, crises e reformas institucionais
+
+**Baseado no artigo de Murilo Gaspardo (2021)**  
+Publicado na *Revista Estudos Institucionais*  
+[https://doi.org/10.21783/rei.v7i3.687](https://doi.org/10.21783/rei.v7i3.687)
+
+## Objetivos da apresentação
+
+- Analisar a proposta de atualização da Teoria do Estado no contexto contemporâneo.
+- Compreender os impactos da globalização financeira, das crises e das reformas institucionais na atuação estatal.
+- Explorar a proposta metodológica do *mapeamento institucional* como alternativa à teoria normativa do Estado.
+- Relacionar a tradição clássica da Teoria do Estado com desafios atuais.
+
+## Introdução: Estado em Crise
+
+> “Nos encontramos em um momento de crise global multidimensional.”  
+> — Murilo Gaspardo
+
+- Crises sanitária, ambiental, econômica, política e social revelam esgotamento de instituições públicas e privadas.
+- Reforma institucional torna-se imperativa, mas carece de consenso teórico, jurídico e político.
+- Em tempos de incerteza, a **Teoria do Estado** precisa atualizar seu escopo e métodos de análise.
+
+## O que é a Teoria do Estado?
+
+- Tradicionalmente, busca explicar:
+  - **Origem**, **função** e **legitimação** do Estado.
+  - Suas **instituições centrais**: governo, administração, parlamento, sistema de justiça.
+- No século XXI, enfrenta o desafio de lidar com:
+  - Poderes transnacionais e instituições financeiras.
+  - Tensões entre soberania e globalização.
+  - Novos arranjos institucionais em contextos instáveis.
+
+## Raízes da Teoria do Estado
+
+> “A Teoria do Estado se desenvolveu como uma disciplina acadêmica nos séculos XIX e XX.”  
+> — Murilo Gaspardo
+
+- Objetivo inicial: entender e legitimar a construção do Estado moderno.
+- Nasceu no cruzamento entre **Direito**, **Filosofia**, **Sociologia** e **Política**.
+- Cada tradição nacional desenvolveu vertentes específicas, com autores e influências próprios.
+
+## Georg Jellinek: Teoria Jurídico-positivista
+
+- Propôs uma abordagem dual:
+  - **Sociológica**: o Estado como fato social.
+  - **Jurídica**: o Estado como ordem normativa.
+- Influenciou fortemente a doutrina alemã e latino-americana.
+- Estado como **personalidade jurídica soberana**, fundado no direito positivo.
+
+## Hans Kelsen: Normativismo
+
+- Estado é **ordem jurídica hierarquizada**, fundamentada na “norma fundamental”.
+- Recusou elementos sociológicos ou políticos na definição de Estado.
+- A Teoria Pura do Direito: o Estado **se confunde com o Direito**.
+
+## Hermann Heller: Teoria Sociológica do Estado
+
+- Crítico do normativismo de Kelsen.
+- Propôs uma visão **dinâmica e concreta** do Estado:
+  - Estado como realidade social em movimento.
+  - Importância dos conflitos e das forças sociais.
+- Teoria do Estado como campo de disputa entre projetos sociais e políticos.
+
+## Miguel Reale: Culturalismo e tridimensionalidade
+
+- Estado como fenômeno **jurídico, ético e político**, enraizado na cultura.
+- Desenvolveu a **teoria tridimensional do Direito**: fato, valor e norma.
+- Valorização das tradições nacionais e da história.
+
+## Dalmo de Abreu Dallari: Abordagem institucional centrada no povo
+
+- Estado como **instituição jurídica fundamental**, voltada para o bem comum.
+- Ênfase na **democracia** e na **função social das instituições**.
+- Abordagem voltada para o direito público e a justiça social.
+
+## Tojal: Estado como discurso e linguagem
+
+- Interpretação inspirada em Foucault e na análise do discurso.
+- Estado como **construção discursiva** e prática linguística.
+- Teoria do Estado como análise crítica dos **discursos jurídicos, políticos e institucionais**.
+
+## Bucci: Perspectiva institucional e funcional
+
+- Enfatiza o papel das instituições e **funções estatais reais**.
+- Estado como ente múltiplo e descentralizado, com papéis distribuídos entre atores diversos.
+- Integra Direito Administrativo, Políticas Públicas e Teoria do Estado.
+
+## Síntese das contribuições
+
+| Autor            | Ênfase                          | Característica central                  |
+|------------------|--------------------------------|----------------------------------------|
+| Jellinek         | Direito e Sociologia            | Estado como ente jurídico e social     |
+| Kelsen           | Direito Puro                    | Estado como norma                      |
+| Heller           | Sociologia Política             | Estado como arena de conflitos         |
+| Reale            | Cultura                         | Estado enraizado na realidade cultural |
+| Dallari          | Institucionalismo Democrático   | Estado como garantidor do bem comum    |
+| Tojal            | Discurso                        | Estado como linguagem e construção simbólica |
+| Bucci            | Instituições e Funções          | Estado multifuncional e complexo       |
+
+## Ampliação da Teoria do Estado
+
+> “A Teoria do Estado não pode se restringir às instituições formais internas.”  
+> — Murilo Gaspardo
+
+- O Estado continua sendo **referência central** para o Direito Público.
+- Mas as **instituições estatais tradicionais** não explicam sozinhas a realidade atual.
+- Fenômenos como globalização, crises e reformas revelam **novos centros de poder**.
+
+## O impacto da globalização financeira
+
+- Globalização financeira: circulação internacional de capitais, regras e decisões que afetam diretamente os Estados.
+- Instituições como **FMI**, **Banco Mundial**, **Comitê de Basileia** e **bancos centrais** assumem papel regulador supranacional.
+- Crescimento de estruturas **pós-democráticas**, sem controle social efetivo.
+
+## Exemplos de desafios contemporâneos
+
+- Autonomia dos **bancos centrais** e sua influência macroeconômica.
+- Austeridade fiscal imposta por organismos internacionais.
+- Reformas estatais baseadas em **pressões externas**.
+- Interdependência entre instituições nacionais e regras globais.
+
+## Qual o problema teórico?
+
+- A Teoria do Estado clássica **não fornece ferramentas** para lidar com:
+  - Instituições **não estatais** com poder real.
+  - Formas de **governança global**.
+  - Interação entre **soberania nacional** e **condicionalidades externas**.
+
+## Novos objetos da Teoria do Estado
+
+- Atores e estruturas que influenciam a organização e função do Estado:
+  - Instituições financeiras internacionais.
+  - Agências reguladoras globais.
+  - Organismos multilaterais de “soft law”.
+  - Redes transnacionais de poder público e privado.
+
+## Proposta: Teoria do Estado como teoria das instituições
+
+> “A proposta aqui é ampliar o escopo da teoria para incorporar atores e arranjos institucionais não estatais.”  
+> — Murilo Gaspardo
+
+- A Teoria do Estado deve se tornar uma **teoria institucional ampliada**.
+- Isso implica romper com o **estatocentrismo jurídico tradicional**.
+- Passa-se a investigar os **arranjos institucionais concretos** que moldam o exercício do poder.
+
+## Interdisciplinaridade como necessidade
+
+- Diálogo com a **Economia Política Internacional**, **Sociologia**, **História** e **Administração Pública**.
+- Apoio em autores como:
+  - **Antonio Gramsci**: hegemonia e Estado ampliado.
+  - **Karl Polanyi**: crítica ao mercado autorregulado.
+  - **Susan Strange**: poder estrutural da economia global.
+  - **Robert Cox**: instituições internacionais como instrumentos do poder.
+
+## A Teoria do Estado, então...
+
+- Deve explicar **como o poder se organiza e é exercido**, mesmo fora do Estado tradicional.
+- Precisa observar os **efeitos da globalização sobre a soberania e a democracia**.
+- Não basta descrever normas jurídicas: é necessário compreender as **práticas institucionais concretas**.
+
+## Mapeamento Institucional
+
+> “É preciso resistir à tentação de formular uma nova teoria totalizante do Estado.”  
+> — Murilo Gaspardo
+
+- As abordagens clássicas buscavam **definições únicas e essenciais** do Estado.
+- Porém, diante da complexidade atual, isso gera mais exclusão do que compreensão.
+- As tentativas de síntese **não dão conta da diversidade institucional** observada na prática.
+
+## A proposta: mapeamento institucional
+
+- Em vez de tentar definir “o que é o Estado”, o autor propõe:
+  - **Mapear os arranjos institucionais reais**.
+  - Compreender **como diferentes instituições públicas e privadas** exercem poder político e normativo.
+  - Analisar o Estado como **pluralidade institucional em constante transformação**.
+
+## O que é mapeamento institucional?
+
+- Um método empírico e crítico, que observa:
+  - Quem são os atores institucionais relevantes?
+  - Que funções desempenham?
+  - Como interagem entre si e com o Estado formal?
+  - Que normas produzem ou aplicam?
+- Substitui o foco na **essência do Estado** por uma atenção à **dinâmica institucional concreta**.
+
+## Vantagens do mapeamento institucional
+
+- Permite lidar com **realidades complexas e híbridas**, que escapam às categorias tradicionais.
+- Ajuda a:
+  - Diagnosticar falhas institucionais.
+  - Propor alternativas viáveis de reforma.
+  - Compreender **dinâmicas de poder difuso**, como as redes regulatórias transnacionais.
+
+## Exemplo ilustrativo (adaptado)
+
+| Instituição                  | Tipo             | Função principal                | Relação com o Estado         |
+|-----------------------------|------------------|--------------------------------|-----------------------------|
+| Banco Central               | Estatal autônomo | Política monetária              | Interna e internacionalizada |
+| Comitê de Basileia          | Transnacional    | Normatização bancária           | Soft law global             |
+| Tribunal de Contas da União | Estatal          | Controle externo das contas     | Nacional, com padrões globais|
+| OCDE                       | Transnacional    | Padrões técnicos e regulatórios | Influência indireta         |
+
+## Um convite à reflexão prática
+
+> “Mapear instituições é também um ato político.”  
+> — Murilo Gaspardo
+
+- O mapeamento revela:
+  - Disputas de poder ocultas.
+  - Desigualdades institucionais.
+  - Espaços de captura e resistência.
+- É instrumento tanto para o **diagnóstico crítico** quanto para o **projeto normativo**.
+
+## Teoria do Estado como cartografia institucional
+
+- O Estado deixa de ser uma entidade fechada e abstrata.
+- Passa a ser visto como um **campo de instituições em disputa**.
+- O papel da Teoria do Estado é:
+  - Oferecer ferramentas para **ler esse campo**.
+  - Promover intervenções **democráticas e emancipatórias**.
+
+## Conclusão
+
+- A Teoria do Estado precisa se renovar para enfrentar a complexidade da globalização financeira e das crises múltiplas.
+- Não basta seguir uma teoria normativa tradicional e estatocêntrica.
+- A proposta de Murilo Gaspardo é uma abordagem **institucionalista, plural e dinâmica**, que respeita a diversidade e a transformação constante do Estado.
+
+## O papel do mapeamento institucional
+
+- Ferramenta essencial para:
+  - Identificar as instituições reais que compõem o campo estatal e suas interações.
+  - Entender as **relações de poder distribuídas**, muitas vezes fora do controle democrático.
+  - Desenvolver propostas concretas de reforma e resistência.
+
+## Contribuições para a Ciência Política e Direito
+
+- Promove diálogo interdisciplinar entre Direito, Sociologia, Economia e Ciências Políticas.
+- Amplia o campo de análise da Teoria do Estado para além do Estado-nação clássico.
+- Favorece a construção de um conhecimento mais pragmático e conectado com a realidade social.
+
+## Desafios e caminhos futuros
+
+- Integrar estudos empíricos detalhados com análises institucionais críticas.
+- Considerar os impactos das crises recentes e as possibilidades de transformação política.
+- Investigar o papel das tecnologias, redes digitais e novas formas de governança.
+
+## Referência
+
+> GASPARDO, Murilo. Teoria do Estado: uma proposta de abordagem no contexto de globalização financeira, crises e reformas institucionais. *Revista Estudos Institucionais*, v. 7, n. 3, 2021.  
+> Disponível em: https://www.estudosinstitucionais.com/REI/article/view/687/752

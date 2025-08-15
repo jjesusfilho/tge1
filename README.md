@@ -1,0 +1,117 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# CIÊNCIA POLÍTICA E TEORIA GERAL DO ESTADO I
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+# Pontifícia Universidade Católica de São Paulo
+
+**Pró-Reitoria de Planejamento e Avaliação Acadêmicos**
+
+## Nome da unidade curricular
+
+**Ciência Política e Teoria Geral do Estado I**
+
+**Curso:** Direito  
+**Período:** 1º período  
+**Nº de créditos:** 2  
+**Carga horária:** 34  
+**Semestre / Ano:** 2º/2025  
+**Professor:** José de Jesus Filho  
+**Faculdade:** Faculdade de Direito  
+**Departamento:** Departamento 1 - Teoria Geral do Direito / Filosofia
+
+**A disciplina contempla atividades extensionistas:** Não
+
+------------------------------------------------------------------------
+
+## Ementa
+
+Discussão sobre as noções básicas sobre o Estado, sua natureza, origem e
+finalidade a nível teórico, na realidade brasileira atual. Possibilitar
+a análise crítica do papel do Estado na organização da economia e
+perante a sociedade através dos instrumentos jurídicos.
+
+------------------------------------------------------------------------
+
+## Objetivos
+
+A disciplina “Ciência Política e Teoria Geral do Estado” visa fornecer
+aos alunos do Curso de Bacharelado em Direito as noções básicas sobre
+Ciência Política e a Teoria Geral do Estado, o qual desempenha um papel
+cada vez mais importante nas relações jurídicas, econômicas e sociais. A
+estas indagações cabe à T.G.E. responder, numa abordagem ao mesmo tempo
+histórico-sociológica e jurídico-política.
+
+------------------------------------------------------------------------
+
+## Conteúdo programático
+
+| Aula | Conteúdo | Observações |
+|----|----|----|
+| 1ª | Fundamentos da Ciência Política: Estado, Política e Sociedade |  |
+| 2ª | A Autonomia do Político |  |
+| 3ª | Formação do Estado |  |
+| 4ª | A Ciência Política e o Estado: Métodos e Objetivos |  |
+| 5ª | A Ciência Política e o Estado: Métodos e Objetivos |  |
+| 6ª | Finalidades do Estado e das Sociedades: Bem Comum e Subsidiariedade |  |
+| 7ª | Indivíduo, Pessoa e Cidadania |  |
+| 8ª | Tipos de Estado e suas Formações Históricas |  |
+| 9ª | O Federalismo e suas Variantes: Teorias e o Caso Brasileiro |  |
+| 10ª | Nação, Estado e Diversidades: Plurinacionalidade e Municípios |  |
+| 11ª | Supra-Estados e Territorialidade: Espaço Estatal e Organizações Internacionais |  |
+| 12ª | Formas de Governo: Clássicas e Modernas |  |
+| 13ª | Soberania do Estado: Teorias e Evolução Histórica |  |
+| 14ª | O Estado comparado com os outros tipos de sociedades |  |
+| 15ª | Regimes de Governo: Presidencialismo e Parlamentarismo |  |
+| 16ª | Tipos de Dominação: Carisma, Patrimonialismo e Burocracia |  |
+| 17ª | Corpos Intermediários e Grupos de Pressão no Governo Democrático |  |
+| 18ª | Representação Política: Partidos, Sufrágio e Sistemas Eleitorais |  |
+
+------------------------------------------------------------------------
+
+## Metodologia ou estratégias de ensino
+
+Aulas expositivas com leitura prévia de textos durante o primeiro
+bimestre. Apresentações dos alunos.
+
+------------------------------------------------------------------------
+
+## Avaliação
+
+| Data  | Forma de Avaliação        | Tipo       | Pesos                            |
+|-------|---------------------------|------------|----------------------------------|
+| 26/09 | Prova escrita             | Individual | 7 (prova) + 3 (participação)     |
+| 14/11 | Apresentação em seminário | Grupo      | 7 (seminário) + 3 (participação) |
+
+------------------------------------------------------------------------
+
+## Bibliografia básica
+
+- **DALLARI, Dalmo de Abreu.** *Elementos de Teoria Geral do Estado*.
+  São Paulo, Saraiva, 2016, 33ª ed.  
+- **DE CICCO, Cláudio** e **Alvaro de Azevedo Gonzaga.** *Teoria Geral
+  do Estado e Ciência Política*. São Paulo, Revista dos Tribunais, 2020,
+  8ª ed.  
+- **RANIERI, Nina Beatriz Stocco.** *Teoria do Estado. Do Estado de
+  Direito ao Estado Democrático de Direito*. Barueri, Manole, 3ª
+  ed., 2023. E-book disponível na “Minha Biblioteca” e na biblioteca
+  digital da PUC-SP.
+
+------------------------------------------------------------------------
+
+## Bibliografia complementar
+
+- **BOBBIO, Norberto.** *Teoria Geral da Política*. 5ª ed., Rio de
+  Janeiro, Campus, 2002.  
+- **BONAVIDES, Paulo.** *Teoria do Estado*. São Paulo, Malheiros,
+  2018.  
+- **BUCCI, Maria Paula Dallari.** *Teoria do Estado. Sentidos
+  contemporâneos*. São Paulo, Saraiva, 2018.  
+- **MENEZES, Aderson de.** *Teoria Geral do Estado*. Rio de Janeiro,
+  Forense, 8ª ed., 2009.  
+- **STRECK, Lenio Luiz** e **MORAES, José Luis Bolzan de.** *Ciência
+  Política e Teoria do Estado*. Porto Alegre, Livraria do Advogado,
+  2019.
