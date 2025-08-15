@@ -56,24 +56,23 @@ A disciplina “Ciência Política e Teoria Geral do Estado” visa fornecer aos
 library(tibble)
 cp <- tribble(
   ~Aula, ~Conteudo, ~Slides, ~Material,
-  "1ª", "Teoria do Estado em tempos de crise e globalização", "[aula1](https://jjesusfilho.github.io/tge1/slides/aula1/aula1.html#/title-slide)", NA,
-  "2ª", "Introdução à Teoria do Estado", "[Aula2](https://jjesusfilho.github.io/tge1/slides/aula1/aula2.html#/title-slide)", NA,
+  "1ª", "Teoria do Estado em tempos de crise e globalização", "[aula1](https://jjesusfilho.github.io/tge1/slides/aula1/aula1.html#/title-slide)", "[Murilo Gaspardo](https://drive.google.com/file/d/1rFhPEa9NWLjZ4MTNVAeTarvfJdC9f-A7/view?usp=drive_link)",
+  "2ª", "Introdução à Teoria do Estado", "[Aula2](https://jjesusfilho.github.io/tge1/slides/aula1/aula2.html#/title-slide)", "[Nina Ranieri](https://drive.google.com/file/d/1pxLaQptcaOvwWDgw19xiuEI-PyXrp1_3/view?usp=drive_link)" ,
   "3ª", "Formação do Estado", NA, NA,
   "4ª", "A Ciência Política e o Estado: Métodos e Objetivos", NA, NA,
-  "5ª", "A Ciência Política e o Estado: Métodos e Objetivos", NA, NA,
-  "6ª", "Finalidades do Estado e das Sociedades: Bem Comum e Subsidiariedade", NA, NA,
-  "7ª", "Indivíduo, Pessoa e Cidadania", NA, NA,
-  "8ª", "Tipos de Estado e suas Formações Históricas", NA, NA,
-  "9ª", "O Federalismo e suas Variantes: Teorias e o Caso Brasileiro", NA, NA,
-  "10ª", "Nação, Estado e Diversidades: Plurinacionalidade e Municípios", NA, NA,
-  "11ª", "Supra-Estados e Territorialidade: Espaço Estatal e Organizações Internacionais", NA, NA,
-  "12ª", "Formas de Governo: Clássicas e Modernas", NA, NA,
-  "13ª", "Soberania do Estado: Teorias e Evolução Histórica", NA, NA,
-  "14ª", "O Estado comparado com os outros tipos de sociedades", NA, NA,
-  "15ª", "Regimes de Governo: Presidencialismo e Parlamentarismo", NA, NA,
-  "16ª", "Tipos de Dominação: Carisma, Patrimonialismo e Burocracia", NA, NA,
-  "17ª", "Corpos Intermediários e Grupos de Pressão no Governo Democrático", NA, NA,
-  "18ª", "Representação Política: Partidos, Sufrágio e Sistemas Eleitorais", NA, NA
+  "5ª", "Finalidades do Estado e das Sociedades: Bem Comum e Subsidiariedade", NA, NA,
+  "6ª", "Indivíduo, Pessoa e Cidadania", NA, NA,
+  "7ª", "Tipos de Estado e suas Formações Históricas", NA, NA,
+  "8ª", "O Federalismo e suas Variantes: Teorias e o Caso Brasileiro", NA, NA,
+  "9ª", "Nação, Estado e Diversidades: Plurinacionalidade e Municípios", NA, NA,
+  "10ª", "Supra-Estados e Territorialidade: Espaço Estatal e Organizações Internacionais", NA, NA,
+  "11ª", "Formas de Governo: Clássicas e Modernas", NA, NA,
+  "12ª", "Soberania do Estado: Teorias e Evolução Histórica", NA, NA,
+  "13ª", "O Estado comparado com os outros tipos de sociedades", NA, NA,
+  "14ª", "Regimes de Governo: Presidencialismo e Parlamentarismo", NA, NA,
+  "15ª", "Tipos de Dominação: Carisma, Patrimonialismo e Burocracia", NA, NA,
+  "16ª", "Corpos Intermediários e Grupos de Pressão no Governo Democrático", NA, NA,
+  "17ª", "Representação Política: Partidos, Sufrágio e Sistemas Eleitorais", NA, NA
 )
 knitr::kable(cp)
 ```
