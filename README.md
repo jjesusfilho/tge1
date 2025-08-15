@@ -49,26 +49,26 @@ histórico-sociológica e jurídico-política.
 
 ## Conteúdo programático
 
-| Aula | Conteúdo | Observações |
-|----|----|----|
-| 1ª | Fundamentos da Ciência Política: Estado, Política e Sociedade |  |
-| 2ª | A Autonomia do Político |  |
-| 3ª | Formação do Estado |  |
-| 4ª | A Ciência Política e o Estado: Métodos e Objetivos |  |
-| 5ª | A Ciência Política e o Estado: Métodos e Objetivos |  |
-| 6ª | Finalidades do Estado e das Sociedades: Bem Comum e Subsidiariedade |  |
-| 7ª | Indivíduo, Pessoa e Cidadania |  |
-| 8ª | Tipos de Estado e suas Formações Históricas |  |
-| 9ª | O Federalismo e suas Variantes: Teorias e o Caso Brasileiro |  |
-| 10ª | Nação, Estado e Diversidades: Plurinacionalidade e Municípios |  |
-| 11ª | Supra-Estados e Territorialidade: Espaço Estatal e Organizações Internacionais |  |
-| 12ª | Formas de Governo: Clássicas e Modernas |  |
-| 13ª | Soberania do Estado: Teorias e Evolução Histórica |  |
-| 14ª | O Estado comparado com os outros tipos de sociedades |  |
-| 15ª | Regimes de Governo: Presidencialismo e Parlamentarismo |  |
-| 16ª | Tipos de Dominação: Carisma, Patrimonialismo e Burocracia |  |
-| 17ª | Corpos Intermediários e Grupos de Pressão no Governo Democrático |  |
-| 18ª | Representação Política: Partidos, Sufrágio e Sistemas Eleitorais |  |
+| Aula | Conteudo | Slides | Material |
+|:---|:---|:---|:---|
+| 1ª | Teoria do Estado em tempos de crise e globalização | [aula1](https://jjesusfilho.github.io/tge1/slides/aula1/aula1.html#/title-slide) | NA |
+| 2ª | Introdução à Teoria do Estado | [Aula2](https://jjesusfilho.github.io/tge1/slides/aula1/aula2.html#/title-slide) | NA |
+| 3ª | Formação do Estado | NA | NA |
+| 4ª | A Ciência Política e o Estado: Métodos e Objetivos | NA | NA |
+| 5ª | A Ciência Política e o Estado: Métodos e Objetivos | NA | NA |
+| 6ª | Finalidades do Estado e das Sociedades: Bem Comum e Subsidiariedade | NA | NA |
+| 7ª | Indivíduo, Pessoa e Cidadania | NA | NA |
+| 8ª | Tipos de Estado e suas Formações Históricas | NA | NA |
+| 9ª | O Federalismo e suas Variantes: Teorias e o Caso Brasileiro | NA | NA |
+| 10ª | Nação, Estado e Diversidades: Plurinacionalidade e Municípios | NA | NA |
+| 11ª | Supra-Estados e Territorialidade: Espaço Estatal e Organizações Internacionais | NA | NA |
+| 12ª | Formas de Governo: Clássicas e Modernas | NA | NA |
+| 13ª | Soberania do Estado: Teorias e Evolução Histórica | NA | NA |
+| 14ª | O Estado comparado com os outros tipos de sociedades | NA | NA |
+| 15ª | Regimes de Governo: Presidencialismo e Parlamentarismo | NA | NA |
+| 16ª | Tipos de Dominação: Carisma, Patrimonialismo e Burocracia | NA | NA |
+| 17ª | Corpos Intermediários e Grupos de Pressão no Governo Democrático | NA | NA |
+| 18ª | Representação Política: Partidos, Sufrágio e Sistemas Eleitorais | NA | NA |
 
 ------------------------------------------------------------------------
 
