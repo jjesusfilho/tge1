@@ -1,0 +1,232 @@
+---
+title: "A personalidade jurídica do Estado"
+author: "Com base em Nina Ranieri"
+format: revealjs
+theme: serif
+---
+
+## Introdução
+
+- Tema: a **personalidade jurídica do Estado**
+- Baseado no Capítulo 5 do livro *Teoria do Estado do Estado de Direito ao Estado Democrático de Direito* (Nina Ranieri)
+- Objetivos:
+  - Explicar o conceito
+  - Discutir origens históricas
+  - Relacionar legitimidade e legalidade
+  - Analisar repercussões no direito interno e internacional
+
+## O que é personalidade jurídica?
+
+- **Definição técnica**: capacidade jurídica atribuída pelo Direito
+- Sujeito de direitos e deveres
+- Exemplo de pessoas jurídicas:
+  - Seres humanos
+  - Estado
+  - Empresas
+  - Associações
+  - Organizações internacionais
+
+## Personalidade jurídica do Estado
+
+- Estado como **pessoa jurídica de direito público**
+- Nacional (interno): União, estados, municípios, autarquias
+- Internacional (externo): estados estrangeiros, sujeitos de direito internacional
+- Utilidade prática:
+  - Critério fixo de imputação
+  - Unidade e continuidade do Estado
+  - Relações jurídicas nacionais e internacionais
+  - Base para responsabilidade do Estado (atos administrativos, jurisdicionais, legislativos)
+
+## Fundamento constitucional
+
+- Constituição Federal de 1988, art. 4º, V:
+  - "A República Federativa do Brasil rege-se em suas relações internacionais pelo princípio da igualdade entre os Estados"
+- Estado brasileiro:
+  - Titular de direitos
+  - Destinatário de obrigações
+  - No plano interno e internacional
+
+## Origens da teoria
+
+- **Alemanha (século XIX)**
+- Wilhelm Eduard Albrecht (1837)
+- Carl Friedrich von Gerber (1865): Estado como **organismo moral**
+- Otto von Gierke: vontade estatal expressa pelos órgãos
+- Georges Jellinek: imputação jurídica pode ser feita a pessoa física ou coletiva
+
+## Antecedentes
+
+- Contratualistas já concebiam o Estado como pessoa:
+  - **Hobbes**: Leviatã (Estado como ser dotado de vontade)
+- Diferença:
+  - Contratualistas: metáfora
+  - Escola alemã: teoria técnico-jurídica
+
+## Consequências da teoria
+
+- Separação entre governante e Estado
+- Estado como titular da soberania
+- Governante = órgão do Estado
+- Fortalecimento:
+  - Legislativo
+  - Controle do poder
+  - Formalização do Direito
+
+## Hobbes e a pessoa artificial
+
+- *Leviatã* (1651)
+- Estado como “pessoa artificial”
+- Conceito:
+  - Pessoa natural: representa a si mesma
+  - Pessoa artificial: representa outro
+- Vantagens:
+  - Estrutura estável
+  - Capacidade de ação em nome do povo
+
+## Racionalização do poder estatal
+
+- Converter **poder de fato** em **poder de direito**
+- Instrumentos:
+  - Constitucionalismo
+  - Declarações de direitos
+  - Divisão dos poderes
+  - Princípio da legalidade
+  - Positivação do direito internacional
+- Resultado: juridificação do Estado e estatização do Direito
+
+## Legitimidade x legalidade
+
+- **Legitimidade**:
+  - Grau de consenso
+  - Obediência sem força
+  - Transformar obediência em adesão
+- **Legalidade**:
+  - Exercício do poder conforme a lei
+  - Isonomia
+  - Previsibilidade
+
+## Norberto Bobbio
+
+- Bobbio classifica os **princípios de legitimidade do poder** a partir de três grandes fundamentos, sempre em torno da lógica **ex parte principis** (governante) e **ex parte populi** (povo):
+
+1. **Vontade**
+   - ex parte principis: poder de Deus ou do soberano  
+   - ex parte populi: poder do povo  
+
+2. **Natureza**
+   - ex parte principis: força bruta, dominação  
+   - ex parte populi: razão, direito natural  
+
+3. **História**
+   - ex parte principis: tradição, continuidade  
+   - ex parte populi: ruptura, revolução, progresso  
+
+- Síntese:
+  - **ex parte principis** → poder conservador, centralizador  
+  - **ex parte populi** → poder democrático, transformador  
+
+## Definições de Estado
+
+- Perspectiva **política**:
+  - Carl Schmitt: “unidade política”
+  - Léon Duguit: “força material irresistível”
+- Perspectiva **jurídica**:
+  - Hans Kelsen: “ordem normativa coativa”
+  - Hermann Heller: “unidade de decisão e ação”
+  - Georges Jellinek: “corporação territorial”
+  - Santi Romano: “pessoa jurídica territorial soberana”
+
+## Definições no Brasil
+
+- Miguel Reale:
+  - Estado = sociedade juridicamente organizada
+  - Realização do bem comum
+- Dalmo Dallari:
+  - Estado = ordem jurídica soberana
+  - Finalidade: bem comum de um povo em território determinado
+
+## Elementos essenciais
+
+- **Soberania**: poder jurídico supremo no território
+- **Povo**: cidadãos do Estado
+- **Território**: espaço de validade das normas
+- **Finalidade**: bem comum
+
+## Estado no Direito Internacional
+
+- Capacidades fundamentais:
+  1. Produzir atos jurídicos internacionais
+  2. Reparar danos por ilícitos internacionais
+  3. Acessar procedimentos contenciosos
+  4. Participar de organizações internacionais
+  5. Estabelecer relações diplomáticas
+  6. Proteger pessoas físicas e jurídicas nacionais
+
+## Formação de Estados
+
+- **Originária**:
+  - Patriarcal: famílias, tribos → Estado
+  - Contratual: acordo (ex.: EUA)
+- **Derivada**:
+  - Sucessão de Estados
+  - Separação (descolonização da África, Ásia)
+  - Desmembramento (URSS, Iugoslávia)
+  - União (Alemanha, 1990)
+
+## Extinção de Estados
+
+- Desaparecimento de elementos constitutivos
+- Exemplos:
+  - Incorporação (Alemanha Oriental → Ocidental)
+  - Ocupação colonial
+  - Absorção (Áustria pelo Reich nazista)
+
+## Reconhecimento de Estados
+
+- Ato unilateral de outros Estados
+- Tipos:
+  - Individual ou coletivo
+  - Expresso ou tácito
+  - De jure ou de facto
+- Exemplo: Sudão do Sul (2011), Kosovo (2008)
+
+## Exemplo: Andorra
+
+- Reconhecida como Estado em 1993
+- Constituição: democracia parlamentar
+- Chefes de Estado: presidente da França e bispo de Urgel
+- Ingresso na ONU em 1993
+
+## Celso Lafer: três modelos
+
+1. **Maquiavélico-hobbesiano**
+   - Realismo, guerra, instabilidade
+   - Prevalência do direito nacional
+2. **Grociano**
+   - Cooperação, pacta sunt servanda
+   - Relações econômicas
+   - Dualismo jurídico
+3. **Kantiano**
+   - Cosmopolitismo, direitos humanos
+   - Paz perpétua
+   - Prevalência do direito internacional
+
+## Atualização contemporânea
+
+- Desafios atuais à personalidade do Estado:
+  - **Globalização**
+  - **Organizações supranacionais** (UE, Mercosul)
+  - **Big Techs e soberania digital**
+  - **Splinternet** e nacionalismos digitais
+  - **Crises de legitimidade** em democracias contemporâneas
+
+## Conclusão
+
+- Atribuir personalidade jurídica ao Estado:
+  - É técnica essencial para racionalizar o poder
+  - Permite controle e responsabilização
+  - Garante unidade e continuidade
+- Mas os desafios contemporâneos exigem:
+  - Revisão crítica
+  - Integração entre direito interno e internacional
+  - Diálogo com tecnologia, globalização e novos movimentos sociais

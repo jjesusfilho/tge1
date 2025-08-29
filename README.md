@@ -52,8 +52,8 @@ histórico-sociológica e jurídico-política.
 | Aula | Conteudo | Slides | Material |
 |:---|:---|:---|:---|
 | 1ª | Teoria do Estado em tempos de crise e globalização | [aula1](https://jjesusfilho.github.io/tge1/slides/aula1/aula1.html#/title-slide) | [Murilo Gaspardo](https://drive.google.com/file/d/1rFhPEa9NWLjZ4MTNVAeTarvfJdC9f-A7/view?usp=drive_link) |
-| 2ª | Introdução à Teoria do Estado | [Aula2](https://jjesusfilho.github.io/tge1/slides/aula1/aula2.html#/title-slide) | [Nina Ranieri](https://drive.google.com/file/d/1pxLaQptcaOvwWDgw19xiuEI-PyXrp1_3/view?usp=drive_link) |
-| 3ª | Formação do Estado | NA | NA |
+| 2ª | Introdução à Teoria do Estado | [Aula2](https://jjesusfilho.github.io/tge1/slides/aula2/aula2.html#/title-slide) | [Nina Ranieri](https://drive.google.com/file/d/1pxLaQptcaOvwWDgw19xiuEI-PyXrp1_3/view?usp=drive_link) |
+| 3ª | A personalidade jurídica do Estado | [Aula3](https://jjesusfilho.github.io/tge1/slides/aula3/aula3.html#/title-slide) | [Nina Ranieri](https://drive.google.com/file/d/1DWPDoyR68u_1hS-ycjokAjEHa6GfBw4f/view?usp=drive_link) |
 | 4ª | A Ciência Política e o Estado: Métodos e Objetivos | NA | NA |
 | 5ª | Finalidades do Estado e das Sociedades: Bem Comum e Subsidiariedade | NA | NA |
 | 6ª | Indivíduo, Pessoa e Cidadania | NA | NA |
