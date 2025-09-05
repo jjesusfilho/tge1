@@ -1,0 +1,416 @@
+---
+title: "Soberania"
+author: "Com base em Nina Ranieri"
+format: revealjs
+---
+
+## Primeira parte: soberania e poder político
+
+- Tema central: soberania como **elemento político** do Estado.  
+- A soberania é o atributo que confere **supremacia política e jurídica** ao poder estatal dentro do seu território .  
+- Todos os Estados são soberanos — esta é a característica que os torna **iguais na ordem internacional**.  
+- O titular da soberania é o **Estado**, e não o governante, a Nação ou o povo.  
+
+
+## Soberania como poder político
+
+- O fundamento da soberania decorre da **independência fundamental do poder do Estado**.  
+- Miguel Reale: soberania é o poder que a Nação tem de **constituir-se em Estado e declarar originariamente o seu Direito**.  
+- Dalmo Dallari: é o **poder inconstrastável de querer coercitivamente e de fixar as competências** .  
+- Nessa visão, soberania e poder originário e exclusivo são complementares.  
+
+
+
+## Soberania como poder jurídico
+
+- Ricardo Lewandowski: soberania é o **poder originário e exclusivo do Estado, enquanto pessoa moral, de declarar e assegurar a positividade de seu direito**.  
+- Inclui a competência para decidir, em última instância, sobre a validade de todos os ordenamentos internos .  
+- Kelsen e outros (Gerber, Gierke, Jellinek): soberania expressa a **unidade e validade da ordem jurídica**.  
+- Assim, soberania e **personalidade jurídica do Estado** são dois aspectos de uma única realidade.  
+
+
+## Contexto histórico
+
+- O conceito de soberania fundamenta-se na **evolução histórica do Estado moderno**.  
+- Surge para justificar e legitimar o poder estatal após a fragmentação feudal.  
+- Ocorre a transformação do **poder de fato em poder de direito**.  
+- Influências principais: Francisco de Vitória, Bodin, Grotius, Hobbes, Locke, Rousseau, Sieyès .  
+
+
+## Constitucionalismo e limites
+
+- Com o constitucionalismo e a teoria da personalidade jurídica do Estado, a soberania se institucionaliza.  
+- Porém, a partir da **Carta da ONU (1945)** e da **DUDH (1948)**, a soberania deixa de ser uma "carta branca".  
+- Passa a ser limitada por duas obrigações fundamentais:  
+  1. Garantia da **paz**.  
+  2. Respeito aos **direitos humanos**.  
+
+
+## Fenômenos contemporâneos
+
+- Regionalização e globalização, especialmente após o século XX, desafiaram a ideia de soberania centralizada e homogênea.  
+- Apesar disso, a essência da soberania permanece: o Estado continua sendo o **centro do poder jurídico e político**.  
+- A soberania não desaparece, mas torna-se **mais flexível** em relação à tradição clássica .  
+
+
+## Conclusão da primeira parte
+
+- A soberania continua a ser um **atributo essencial** do Estado.  
+- Define sua autoridade suprema, tanto política quanto jurídica.  
+- Embora relativizada por normas internacionais e pela globalização, ainda garante a **igualdade formal entre os Estados** e a centralidade do poder estatal.  
+
+
+## Segunda parte: soberaria e poder político
+
+- Para compreender a soberania, é necessário analisar o **poder político**.  
+- O conceito de poder designa a potencialidade de influenciar comportamentos.  
+- O poder pode ser:  
+  - social, econômico, militar, ideológico, religioso, jurídico etc.  
+- Mas é o **poder do homem sobre o homem**, na esfera política, que se conecta à soberania.  
+
+
+## O que é poder político
+
+- Particularidade: exerce-se no campo político, envolvendo decisões sobre **valores fundamentais**.  
+- Baseia-se na coação, no medo ou na força, reais ou presumidos.  
+- Depende de três condições:  
+  1. Vínculo entre os indivíduos.  
+  2. Existência de uma finalidade.  
+  3. Posse dos instrumentos de força.  
+
+
+## Poder político segundo Burdeau
+
+- Georges Burdeau identifica a nota distintiva do poder político na sua **finalidade socializada**.  
+- Ou seja: o poder só é político quando visa ao **interesse do grupo social** em que se manifesta.  
+- Isso significa que o Estado é o **suporte do poder político institucionalizado**.  
+- O poder deixa de ser pessoal e passa a ser **formalizado e impessoal**.  
+
+
+## Poder político segundo Bobbio
+
+- Norberto Bobbio acrescenta elementos à definição:  
+  - **Poder coator** em sentido estrito.  
+  - **Exclusividade** (só o Estado detém esse poder).  
+  - **Universalidade** (atinge a totalidade dos indivíduos).  
+- O poder político:  
+  - Impede a formação de grupos adversos.  
+  - Monopoliza as decisões legítimas.  
+  - Pode intervir imperativamente em todas as esferas sociais.  
+
+
+## Política e Estado
+
+- O poder político é inseparável da **política**.  
+- A política é a atividade humana voltada para a organização da pólis (cidade/Estado).  
+- Aristóteles: o homem é naturalmente feito para a sociedade política.  
+- Derivações linguísticas de *kratos* e *arché* mostram a centralidade da política:  
+  - aristocracia, democracia, monarquia, oligarquia, burocracia etc.  
+
+
+## Dominação e Estado
+
+- O poder político relaciona-se fortemente à **dominação**.  
+- Exemplo de relações clássicas:  
+  - mandantes e vassalos,  
+  - governantes e governados,  
+  - soberanos e súditos,  
+  - Estado e cidadãos.  
+- Essa dimensão remete ao Estado como **instituição de dominação legítima**.  
+
+
+## Max Weber: poder e legitimidade
+
+- Max Weber (em *Economia e sociedade*) destacou que:  
+  - O foco deve estar na relação entre **obediência dos dominados** e **legitimidade dos dominantes**.  
+  - Dominação = probabilidade de encontrar obediência.  
+  - Legitimidade = qualidade que transforma a força em direito e a obediência em dever.  
+- Tipos de dominação legítima:  
+  1. **Racional** (fundada na lei e na burocracia).  
+  2. **Tradicional** (fundada em costumes e lealdade).  
+  3. **Carismática** (fundada nas qualidades pessoais do líder).  
+
+
+## Hobbes: medo e poder político
+
+- Para Hobbes, a origem do poder político está no **medo recíproco** entre os homens.  
+- No **estado de natureza**: guerra de todos contra todos, ausência de leis e justiça.  
+- O Estado surge como resposta ao medo, garantindo paz e segurança.  
+- O contrato social atribui ao soberano o poder supremo e coercitivo.  
+- Conclusão hobbesiana: o absolutismo é condição de preservação da ordem civil.  
+
+
+## Conclusão da segunda parte
+
+- O poder político é inseparável da soberania.  
+- Ele se distingue por sua **finalidade coletiva**, pelo **monopólio da coação** e pela **legitimidade social**.  
+- Burdeau, Bobbio, Aristóteles, Weber e Hobbes oferecem visões complementares:  
+  - Do interesse coletivo ao monopólio estatal,  
+  - Da legitimidade social à força absoluta do Estado.  
+- Essa análise fundamenta a compreensão moderna da soberania como elemento político essencial.  
+
+
+## Terceira parte: soberania e poder coator
+
+- O poder estatal, desde a Idade Média, foi identificado ao **poder coator**.  
+- Trata-se de distinguir entre o poder da **Igreja (espiritual)** e o do **Estado (terreno)**.  
+- A evolução do conceito de soberania nasce dessa diferenciação.  
+- Essa transformação prepara o caminho para o Estado moderno.  
+
+
+## Igreja e Estado na Idade Média
+
+- Séculos XIII e XIV: distinção entre poderes:  
+  - **Igreja**: espiritual, voltado à fé e à salvação.  
+  - **Estado**: terreno, voltado à ordem política e à força.  
+- A Igreja utilizava meios psicológicos (céu e inferno).  
+- O Estado utilizava meios de coação física (exércitos, polícia, guerra).  
+
+
+## Marsílio de Pádua e William de Ockham
+
+- Marsílio de Pádua, em *Defensor pacis* (1324):  
+  - A Igreja não é hierarquia autônoma, mas comunidade de fiéis.  
+  - Submete-se ao legislador humano: o **príncipe**.  
+  - Só o príncipe detém a autoridade legítima, pois **força e obriga**.  
+- Ockham reforça a separação entre fé e razão, poder espiritual e poder temporal.  
+
+
+## Origens do conceito de soberania
+
+- Expressão inicial: *rex in regno suo imperator est* — “o rei é imperador em seu reino” (Inocêncio III, 1202).  
+- A soberania significava autoridade **superlativa** sobre todos os demais poderes.  
+- Cada barão era soberano em seu feudo; o rei, sobre todo o reino.  
+- Para o Imperador, soberania era **de iure** (jurídica); para os reis, **de facto** (efetiva).  
+
+
+## Jurisdição e coexistência de poderes
+
+- Contradição medieval: coexistência de várias soberanias (reis, barões, imperador).  
+- Solução: conceito de **jurisdição** (iurisdictio), herdado do Direito Romano.  
+- Juristas como **Bártolo de Sassoferrato** (séc. XIV) hierarquizaram as jurisdições:  
+  - do barão (jurisdição mínima) ao imperador (jurisdição máxima).  
+- Com a queda do Sacro Império, a jurisdição máxima passa ao rei → **absolutismo**.  
+
+
+## Novidade conceitual
+
+- A noção moderna de soberania rompe com o feudalismo:  
+  - substitui relações pessoais de vassalagem por um poder **abstrato, perpétuo e institucional**.  
+  - cria novas categorias políticas, como o **território**.  
+- G. Jellinek: a Antiguidade não conheceu soberania porque não havia oposição entre Estados.  
+- Bertrand Badie: a soberania exige **alteridade e reciprocidade**, inexistentes em impérios universais.  
+
+## Consolidação no Estado moderno
+
+- A soberania torna-se o atributo essencial do **Estado moderno**.  
+- Marca sua **independência plena** e o diferencia de entidades políticas anteriores.  
+- Sua passagem de poder de fato a poder de direito decorre da **racionalização do poder político**.  
+- Isso ocorre por meio da institucionalização e da **jurisdicionalização** → fundamentos do **Estado de Direito**.  
+
+
+## Conclusão da terceira parte
+
+- A soberania nasce da diferenciação entre poder espiritual e temporal.  
+- Evolui da fragmentação feudal para a centralização monárquica.  
+- Consolida-se como atributo exclusivo do Estado moderno, apoiado em:  
+  - independência,  
+  - institucionalização,  
+  - territorialidade.  
+- A soberania torna-se o **fundamento político-jurídico** do Estado de Direito.  
+
+
+## Quarta parte: doutrina clássica da soberania
+
+- Após a Idade Média, surge a **doutrina clássica da soberania**.  
+- Objetivo: consolidar o poder do monarca como centro único e absoluto do Estado.  
+- Com o tempo, o absolutismo é contestado → surgem as **doutrinas democráticas**.  
+- Mudança: soberania passa do **príncipe** para o **povo** ou a **nação**.  
+
+
+## Doutrina clássica da soberania
+
+- Principais pensadores: Maquiavel, Bodin, Grotius, Hobbes.  
+- Ideia central: só o poder estatal homogêneo, superlativo e independente garante ordem e proteção.  
+- Atributos da soberania clássica:  
+  - Superioridade.  
+  - Unicidade.  
+  - Indivisibilidade.  
+  - Inalienabilidade.  
+  - Imprescritibilidade.  
+
+
+## Jean Bodin
+
+- Obra: *Os seis livros da República*.  
+- Define soberania como **poder de legislar independentemente do consentimento dos súditos**.  
+- Para Bodin, o direito de criar e abolir leis engloba todos os demais direitos soberanos.  
+- Conclusão: a soberania é uno, supremo e perpétuo.  
+- Mas reconhece limites: lei divina e lei natural.  
+
+
+## Thomas Hobbes
+
+- Obras: *Do cidadão* (1642) e *O Leviatã* (1651).  
+- O Estado nasce do contrato social como reação ao medo e à guerra de todos contra todos.  
+- Para garantir paz e segurança, é necessário um soberano com **poder absoluto**.  
+- Frase emblemática do absolutismo: “L’État c’est moi” (Luís XIV).  
+- Hobbes vincula soberania à **essência da política**.  
+
+
+## A Paz de Westfália (1648)
+
+- Tratados que encerraram as guerras religiosas na Europa.  
+- Estabeleceram o princípio **hujus regio, ejus religio** (“em cada território, a religião do príncipe”).  
+- Consequências:  
+  - Reconhecimento mútuo da soberania dos Estados.  
+  - Princípio da territorialidade do Direito.  
+  - Formação da sociedade internacional moderna.  
+
+
+## Crise do absolutismo
+
+- A partir do século XVII, surgem críticas ao absolutismo.  
+- Revolução Gloriosa (1689): afirmação da supremacia do Parlamento na Inglaterra.  
+- Influência decisiva na limitação do poder real.  
+- Abre caminho para o constitucionalismo e para a ideia de soberania vinculada ao povo.  
+
+
+## John Locke
+
+- *Segundo tratado sobre o governo civil* (1690).  
+- O Estado não é fim em si mesmo: governa em nome do povo.  
+- O poder político deve ser limitado pelo Direito, que preexiste ao Estado.  
+- Introduz conceitos:  
+  - **Poder federativo** (relações exteriores).  
+  - **Prerrogativa** (poder discricionário do governante, desde que voltado ao bem público).  
+
+## Montesquieu
+
+- Obra: *O espírito das leis* (1748).  
+- Defende a **separação de poderes** como garantia da liberdade.  
+- O poder político é limitado por fatores extrajurídicos (natureza, condições sociais).  
+- A lei deve refletir as “relações necessárias que derivam da natureza das coisas”.  
+- Para Montesquieu, dividir o poder é condição de preservação da liberdade.  
+
+
+## Rousseau
+
+- Obra: *Do contrato social* (1762).  
+- A soberania reside na **vontade geral**.  
+- A lei justa é expressão dessa vontade, voltada ao bem comum.  
+- O pacto social confere poder político absoluto, mas condicionado à coletividade.  
+- A soberania é **inalienável e indivisível**, pertencendo sempre ao povo.  
+
+
+## Emmanuel Sieyès
+
+- Obra: *O que é o Terceiro Estado?* (1789).  
+- Identifica o povo à **nação**.  
+- Defende que o terceiro estado (povo trabalhador) é tudo.  
+- Introduz a noção de **poder constituinte originário**.  
+- A soberania reside essencialmente na Nação (art. 3º da DDHC, 1789).  
+
+
+## Comparação entre Inglaterra e França
+
+- Inglaterra: após a Revolução Gloriosa, a intenção era limitar o poder do rei, não suprimi-lo.  
+- França: objetivo revolucionário era abolir o poder real, substituindo-o pela soberania nacional.  
+- Locke admite alguma margem de prerrogativa ao monarca.  
+- Montesquieu e Rousseau radicalizam a limitação e a transferência da soberania ao povo/nação.  
+
+
+## Conclusão da quarta parte
+
+- A doutrina clássica consolidou o absolutismo e a centralidade do soberano.  
+- Com as revoluções liberais, o foco se desloca para o povo e a nação.  
+- Essa mudança fundamenta o **constitucionalismo moderno**.  
+
+## Conclusão da quarta parte
+
+- A soberania deixa de ser atributo pessoal do príncipe para tornar-se:  
+  - **Popular** (Rousseau).  
+  - **Nacional** (Sieyès).  
+- Base para a democracia representativa e para o Estado constitucional.  
+
+
+## Quinta parte: Novos desafios
+
+- O Estado moderno do século XXI enfrenta **novos desafios**.  
+- Sua soberania é relativizada por fatores **internos** e **externos**.  
+- Questão central: até que ponto o Estado ainda exerce autoridade suprema?  
+- Debate envolve conceitos de **governança**, **governabilidade** e **pós-soberania**.  
+
+
+## Circunstâncias contemporâneas
+
+- **Pluralidade de centros decisórios**: atores não estatais e supraestatais.  
+- Declínio do monopólio estatal sobre o poder político.  
+- Prevalência da **economia sobre a política**:  
+  - globalização financeira,  
+  - transnacionalização de mercados,  
+  - perda do controle sobre a moeda.  
+- Sociedade em rede desafia a centralidade do Estado.  
+
+
+## Três correntes explicativas (Sabino Cassese)
+
+1. **Funcional ou macropolítica**  
+   - Enfraquecimento do Estado em benefício do mercado e de interesses privados.  
+
+2. **Administrativa**  
+   - Perda de poder em razão da criação de organizações internacionais e fortalecimento das regiões.  
+
+3. **Doméstica ou nacional**  
+   - Mudanças internas, como privatizações e reformas administrativas, enfraqueceram o Executivo.  
+
+## Fatores de enfraquecimento
+
+- Estagnação econômica pós-crise do petróleo (anos 1970).  
+- Ascensão do paradigma neoliberal e monetarista (FMI, Banco Mundial, OCDE).  
+- Redução do papel do Estado nas políticas públicas.  
+- Pressões do mercado financeiro globalizado.  
+- Criação da União Europeia e enfraquecimento da legislação nacional.  
+- Revolução tecnológica e reorganização administrativa.  
+- Novos problemas globais: terrorismo, crime organizado, meio ambiente, migrações.  
+
+## O pluralismo normativo
+
+- Apesar da crise, o pluralismo normativo não é novidade.  
+- Já na Idade Média coexistiam múltiplas fontes de direito.  
+- O Estado moderno também conviveu com ordenamentos paralelos.  
+- Doutrinadores como **Jellinek**, **Gierke** e **Santi Romano** estudaram essa complexidade.  
+- Assim, a soberania nunca foi um conceito absoluto, mas sempre **relativo e flexível**.  
+
+## Críticas teóricas à soberania
+
+- **Luigi Ferrajoli**: a soberania é um “pseudoconceito” → dissolveu-se internamente com o constitucionalismo e externamente com o direito internacional.  
+- **Stephen Krasner**: distingue quatro tipos de soberania (doméstica, interdependente, legal internacional e westfaliana). Define a soberania internacional como **“hipocrisia organizada”**.  
+- **Neil MacCormick**: no contexto europeu, fala em **pós-soberania**: Estados já não decidem sozinhos, mas de forma compartilhada.  
+
+## Perspectivas contemporâneas
+
+- **Lewandowski**: mesmo limitados, os Estados mantêm a soberania essencial → o locus do poder político permanece o Estado.  
+- O padrão **westfaliano** ainda orienta as relações internacionais.  
+- Constituições nacionais seguem sendo o fundamento da legalidade e legitimidade.  
+- A democracia impõe ao Estado a centralidade na promoção dos direitos fundamentais.  
+
+
+## Governança e governabilidade
+
+- **Governabilidade** (Bresser-Pereira): capacidade política de governar, derivada da legitimidade e de um contrato social básico.  
+- **Governança**: capacidade financeira e administrativa de implementar políticas públicas.  
+- Ambas categorias mostram que a soberania depende de fatores internos (contrato social) e externos (capacidade institucional).  
+
+
+## Conclusão da quinta parte
+
+- O século XXI relativizou a soberania, mas não a eliminou.  
+- A soberania é hoje **compartilhada, limitada e flexível**, mas ainda fundamental.  
+- O Estado permanece central para:  
+  - garantir a legalidade,  
+  - promover os direitos fundamentais,  
+  - manter legitimidade democrática.  
+- O desafio é conciliar soberania com interdependência global e múltiplos centros de poder.  
+
+
